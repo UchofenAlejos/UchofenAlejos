@@ -140,7 +140,7 @@ A **cross-platform Trading Card Game (TCG)** developed as a web application with
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/juanpablo-jos%C3%A9-uchofen-alejos-53765b27b/)
 
 ---
 
