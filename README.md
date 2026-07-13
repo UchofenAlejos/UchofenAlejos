@@ -97,6 +97,8 @@ I enjoy creating software that combines **functionality, security, and exception
 | 🇹🇷 **Turkish**| A2          |
 | 🇯🇵 **Japanese**| A1          |
 | 🇰🇷 **Korean**  | A1          |
+| 🇨🇳 **Chinese** | A1          |
+| 🇵🇭 **Tagalog** | A1          |
 
 </div>
 
