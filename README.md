@@ -93,8 +93,8 @@ I enjoy creating software that combines **functionality, security, and exception
 | ------------- | :---------: |
 | 🇵🇪 **Spanish**| Native      |
 | 🇺🇸 **English**| B2          |
-| 🏴 **Catalan** | A2          |
-| 🇹🇷 **Turkish**| A1          |
+| 🇪🇸 **Catalan** | B1          |
+| 🇹🇷 **Turkish**| A2          |
 | 🇯🇵 **Japanese**| A1          |
 | 🇰🇷 **Korean**  | A1          |
 
