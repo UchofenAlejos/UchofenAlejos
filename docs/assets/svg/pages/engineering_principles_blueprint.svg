@@ -1,0 +1,14 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technical domains map</title>
+  <desc id="desc">Five connected areas of interest: cybersecurity, application development, APIs and databases, AI and data, and games.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#0b1024"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".07"/></pattern><style>.k{font:800 11px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#67e8f9}.h{font:900 21px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.s{font:600 12px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}</style></defs>
+  <rect width="1000" height="330" rx="24" fill="url(#bg)" stroke="#164e63"/><rect width="1000" height="330" rx="24" fill="url(#grid)"/>
+  <text x="40" y="44" class="k">INTEREST MAP · LEARNING &amp; PRACTICE</text>
+  <path d="M500 105V158M500 158H155V206M500 158H385V206M500 158V206M500 158H615V206M500 158H845V206" fill="none" stroke="#475569" stroke-width="2"/>
+  <circle cx="500" cy="104" r="9" fill="#22d3ee"/><rect x="364" y="62" width="272" height="62" rx="14" fill="#07111f" stroke="#22d3ee"/>
+  <text x="391" y="88" class="k">FOUNDATION</text><text x="391" y="110" class="h">Systems engineering</text>
+  <g><rect x="45" y="206" width="220" height="82" rx="14" fill="#07111f" stroke="#22d3ee"/><text x="63" y="238" class="h">Cybersecurity</text><text x="63" y="263" class="s">Secure web · ethical hacking</text></g>
+  <g><rect x="275" y="206" width="220" height="82" rx="14" fill="#07111f" stroke="#a78bfa"/><text x="293" y="238" class="h">Software</text><text x="293" y="263" class="s">Web · mobile · desktop</text></g>
+  <g><rect x="505" y="206" width="220" height="82" rx="14" fill="#07111f" stroke="#22c55e"/><text x="523" y="238" class="h">APIs &amp; data</text><text x="523" y="263" class="s">REST · SQL · services</text></g>
+  <g><rect x="735" y="206" width="220" height="82" rx="14" fill="#07111f" stroke="#f59e0b"/><text x="753" y="238" class="h">AI &amp; games</text><text x="753" y="263" class="s">Exploration · mechanics</text></g>
+</svg>

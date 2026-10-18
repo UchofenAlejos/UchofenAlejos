@@ -1,0 +1,6 @@
+<svg width="1100" height="150" viewBox="0 0 1100 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Learning focus</title><desc id="desc">Current learning tracks and practical areas of exploration.</desc>
+  <defs><linearGradient id="bg" x2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#0b1024"/></linearGradient><style>.k{font:800 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}.h{font:900 34px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.s{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}</style></defs>
+  <rect width="1100" height="150" rx="22" fill="url(#bg)" stroke="#164e63"/><path d="M28 122H1072" stroke="#22d3ee" stroke-opacity=".6"/>
+  <text x="42" y="46" class="k">PROFILE SYSTEM · FIELD NOTES</text><text x="42" y="91" class="h">Learning Focus</text><text x="42" y="116" class="s">Current areas of study, practice, and exploration</text>
+</svg>

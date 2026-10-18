@@ -1,0 +1,22 @@
+<svg width="1100" height="270" viewBox="0 0 1100 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Project portfolio map</title>
+  <desc id="desc">Six projects span business web systems, e-commerce, desktop software, games, and Android integration.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>.ey{font:800 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}.hd{font:900 27px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.tx{font:700 13px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}.sm{font:600 11px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}</style>
+  </defs>
+  <rect width="1100" height="270" rx="24" fill="url(#bg)" stroke="#164e63"/>
+  <text x="40" y="42" class="ey">PROJECT SYSTEM · SIX BUILDS</text>
+  <text x="40" y="77" class="hd">From business workflows to interactive software</text>
+  <g fill="#07111f" stroke="#334155">
+    <rect x="40" y="108" width="320" height="58" rx="12"/><rect x="390" y="108" width="320" height="58" rx="12"/><rect x="740" y="108" width="320" height="58" rx="12"/>
+    <rect x="40" y="184" width="320" height="58" rx="12"/><rect x="390" y="184" width="320" height="58" rx="12"/><rect x="740" y="184" width="320" height="58" rx="12"/>
+  </g>
+  <g class="tx"><text x="58" y="134">PAYROLL &amp; ATTENDANCE</text><text x="58" y="153" class="sm">Flask · MySQL · HR</text>
+    <text x="408" y="134">ECOZEN_G4</text><text x="408" y="153" class="sm">E-commerce · eco products</text>
+    <text x="758" y="134">CROSS-PLATFORM TCG</text><text x="758" y="153" class="sm">Browser · Windows · Android</text>
+    <text x="58" y="210">JAVA MINI PROJECTS</text><text x="58" y="229" class="sm">Music · ATM/POS · social</text>
+    <text x="408" y="210">FERRETERÍA PILAR</text><text x="408" y="229" class="sm">Distributed business system</text>
+    <text x="758" y="210">PROCESADORA PERÚ</text><text x="758" y="229" class="sm">Android · NISIRA ERP</text>
+  </g>
+</svg>

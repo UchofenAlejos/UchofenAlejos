@@ -1,0 +1,8 @@
+<svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hidden profile note</title>
+  <desc id="desc">A small terminal icon linking to a simple letter-shift puzzle in the documentation.</desc>
+  <rect x="2" y="2" width="516" height="136" rx="22" fill="#07111f" stroke="#22d3ee" stroke-width="2"/>
+  <circle cx="34" cy="30" r="6" fill="#fb7185"/><circle cx="56" cy="30" r="6" fill="#f59e0b"/><circle cx="78" cy="30" r="6" fill="#22c55e"/>
+  <text x="34" y="82" fill="#67e8f9" font-family="Consolas,monospace" font-size="22" font-weight="700">&gt; curious_mind.exe</text>
+  <text x="34" y="112" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13">A tiny cipher waits in the docs folder.</text>
+</svg>

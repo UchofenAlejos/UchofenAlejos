@@ -1,112 +1,96 @@
- <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0e7490,100:7c3aed&height=230&section=header&text=Juanpablo%20Uchofen%20Alejos&fontSize=42&fontColor=f8fafc&animation=twinkling" alt="Profile header for Juanpablo Uchofen Alejos" />
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Juanpablo;💻+Cybersecurity+Enthusiast;🎓+Systems+Engineering+Student;🚀+Web+%26+Software+Developer;🤖+AI+Explorer" alt="Typing SVG" />
+<h3 align="center">
+  <samp>&gt; Hi, I'm <a href="https://www.linkedin.com/in/juanpablo-jos%C3%A9-uchofen-alejos-53765b27b/">Juanpablo José Uchofen Alejos</a></samp>
+</h3>
 
-  <br>
+<p align="center"><samp>Cybersecurity enthusiast · Systems engineering student · Web and software developer</samp></p>
 
-  <em><b>"Building secure software while turning ideas into reality."</b></em>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanpablo-jos%C3%A9-uchofen-alejos-53765b27b/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Juanpablo on LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Chiclayo%2C%20Peru-ef4444?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Chiclayo, Peru" />
+  <a href="https://github.com/UchofenAlejos">
+    <img src="https://img.shields.io/badge/GitHub-UchofenAlejos-111827?style=flat-square&logo=github" alt="Juanpablo's GitHub profile" />
+  </a>
+</p>
 
-  <br><br>
+<p align="center">
+  <img src="./docs/assets/svg/system/start_here_control_surface.svg" width="92%" alt="Profile control surface with routes to projects, technical domains, and learning focus" />
+</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpablo-jos%C3%A9-uchofen-alejos-53765b27b/)
-  [![Peru](https://img.shields.io/badge/Location-Chiclayo,%20Peru-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 I'm a **7th-semester Systems and Computer Engineering student** at **Universidad Católica Santo Toribio de Mogrovejo (USAT)**.
-
-I enjoy creating software that combines **functionality, security, and exceptional user experience**. My interests range from responsive web development and cybersecurity to artificial intelligence and indie game development.
-
-- 🌱 **Currently learning:** Flask, Power BI, REST API development, secure web architectures, and ethical hacking techniques.
-- 💡 **Interested in:** Cybersecurity, Artificial Intelligence, Web/Mobile Development, APIs, Databases, and Game Mechanics.
-- 🎯 **Career goal:** Become a Cybersecurity & Ethical Hacking Specialist while developing indie video games as a personal passion.
-- ⚡ **Fun fact:** Besides programming, I enjoy designing game mechanics, learning new languages, and exploring emerging tech trends.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,vb" alt="Programming Languages" />
-</a>
-
-### Frameworks, Databases & Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flask,tailwind,mysql,postgres,linux,git,postman,androidstudio,visualstudio,dotnet" alt="Frameworks, Databases and Tools" />
-</a>
-
-<br>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET_Framework_4.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Web Services](https://img.shields.io/badge/Web_Services-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="./docs/pages/PROJECTS.md"><b>Projects</b></a>
+  &nbsp;|&nbsp;
+  <a href="./docs/pages/AI_DOMAIN.md"><b>Technical domains</b></a>
+  &nbsp;|&nbsp;
+  <a href="./docs/pages/LABS.md"><b>Learning focus</b></a>
+  &nbsp;|&nbsp;
+  <a href="./docs/pages/COLLAB.md"><b>Contact & collaboration</b></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="./docs/assets/svg/pages/juanpablo_core.svg" width="100%" alt="Profile summary: systems engineering student focused on secure software, web development, and AI" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📋 Payroll & Attendance System</h3>
-      <p>Administrative and Human Resources web application developed for <b>Inversiones CH Computer SRL</b>.</p>
-      <p><code>Python</code> <code>Flask</code> <code>MySQL</code></p>
-    </td>
-    <td width="50%">
-      <h3>🌱 ECOZEN_G4</h3>
-      <p>Virtual store specialized in eco-friendly products for gardens, patios, and green areas.</p>
-      <p><code>Web Development</code> <code>E-commerce</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 Cross-platform TCG Game</h3>
-      <p>A <b>Trading Card Game (TCG)</b> featuring rarity-based rewards and collection logic. Playable on Browser, Windows (PyInstaller), and Android (Capacitor).</p>
-      <p><code>Game Development</code> <code>Cross-platform</code></p>
-    </td>
-    <td width="50%">
-      <h3>☕ Java Mini Projects</h3>
-      <p>A collection of desktop applications, including a <b>Music Player</b>, <b>ATM/POS Simulator</b>, and a <b>Mini Social Network</b>.</p>
-      <p><code>Java</code> <code>Swing</code> <code>Desktop App</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏪 Ferretería Pilar — Distributed Management System</h3>
-      <p>A distributed hardware store management system combining <b>Web and Desktop applications</b> to manage customers, suppliers, products, sales, purchases, inventory, and reports. The desktop application is developed with Windows Forms, while the architecture supports communication between distributed components.</p>
-      <p><code>Visual Basic .NET</code> <code>Windows Forms</code> <code>.NET Framework 4.7.2</code> <code>Web Development</code> <code>Distributed Systems</code> <code>SQL</code></p>
-    </td>
-    <td width="50%">
-      <h3>📱 Procesadora Perú — Internal Orders App</h3>
-      <p>A native Android application developed for <b>Procesadora Perú</b> to manage internal orders and integrate with the <b>NISIRA ERP</b> through Web Services, facilitating communication between mobile workflows and enterprise systems.</p>
-      <p><code>Java</code> <code>Android Native</code> <code>Web Services</code> <code>ERP Integration</code> <code>API Communication</code></p>
-    </td>
-  </tr>
-</table>
+## 🧭 Profile map
 
----
+<p align="center">
+  <a href="./docs/pages/PROJECTS.md"><img src="./docs/assets/svg/pages/tech_projects_panel.svg" width="30%" alt="Open the featured projects overview" /></a>
+  <a href="./docs/pages/AI_DOMAIN.md"><img src="./docs/assets/svg/pages/ai_domains.svg" width="30%" alt="Explore cybersecurity, software, and AI domains" /></a>
+  <a href="./docs/pages/COLLAB.md"><img src="./docs/assets/svg/pages/collaboration_panel.svg" width="30%" alt="Open contact and collaboration information" /></a>
+</p>
 
-## 📜 Certifications & Education
+## 👋 About me
+
+I'm a **7th-semester Systems and Computer Engineering student** at **Universidad Católica Santo Toribio de Mogrovejo (USAT)**. I enjoy creating software that combines **functionality, security, and a thoughtful user experience**.
+
+- **Currently learning:** Flask, Power BI, REST API development, secure web architectures, and ethical hacking techniques.
+- **Interested in:** Cybersecurity, artificial intelligence, web and mobile development, APIs, databases, and game mechanics.
+- **Career goal:** Become a cybersecurity and ethical hacking specialist while developing indie video games as a personal passion.
+- **Outside coding:** I enjoy designing game mechanics, learning languages, and exploring emerging technology.
+
+## 🛠 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,vb,flask,tailwind,mysql,postgres,linux,git,postman,androidstudio,visualstudio,dotnet" alt="Programming languages, frameworks, databases, and development tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=json&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/.NET%20Framework%204.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework 4.7.2" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Native Android development" />
+  <img src="https://img.shields.io/badge/Web%20Services-005571?style=flat-square&logo=fastapi&logoColor=white" alt="Web services" />
+</p>
+
+## 🚀 Featured projects
+
+<p align="center">
+  <img src="./docs/assets/svg/system/profile_architecture.svg" width="96%" alt="Overview connecting six featured projects across web, desktop, mobile, games, and business systems" />
+</p>
+
+| Project | Overview | Technologies |
+| --- | --- | --- |
+| **Payroll & Attendance System** | Human Resources and administrative web application for Inversiones CH Computer SRL. | Python · Flask · MySQL |
+| **ECOZEN_G4** | Virtual store for eco-friendly products for gardens, patios, and green areas. | Web development · E-commerce |
+| **Cross-platform TCG Game** | Trading card game with rarity-based rewards and collection logic; playable in a browser, Windows, and Android. | Game development · PyInstaller · Capacitor |
+| **Java Mini Projects** | Desktop music player, ATM/POS simulator, and mini social network. | Java · Swing |
+| **Ferretería Pilar — Distributed Management System** | Web and desktop system for customers, suppliers, products, sales, purchases, inventory, and reports. | Visual Basic .NET · Windows Forms · .NET Framework 4.7.2 · SQL |
+| **Procesadora Perú — Internal Orders App** | Native Android app for internal orders, integrating mobile workflows with NISIRA ERP through web services. | Java · Android · ERP integration |
+
+<p align="center"><a href="./docs/pages/PROJECTS.md"><b>Explore the project overview →</b></a></p>
+
+## 🎓 Certifications & education
 
 <details>
-<summary><b>✨ Click to view my certifications (IBM, Google, OAS, etc.)</b></summary>
-
-<br>
+<summary><b>View certifications and courses</b></summary>
 
 - **IBM** — Python 101 for Data Science
 - **HackerMentor** — Ethical Hacking Hacklab
@@ -122,46 +106,51 @@ I enjoy creating software that combines **functionality, security, and exception
 
 </details>
 
----
-
 ## 🌎 Languages
 
-<div align="center">
-
 | Language | Proficiency |
-|:---|:---:|
-| 🇵🇪 **Spanish** | Native |
-| 🇺🇸 **English** | B2 |
-| 🇪🇸 **Catalan** | B1 |
-| 🇹🇷 **Turkish** | A2 |
-| 🇯🇵 **Japanese** | A1 |
-| 🇰🇷 **Korean** | A1 |
-| 🇨🇳 **Chinese** | A1 |
-| 🇵🇭 **Tagalog** | A1 |
+| --- | :---: |
+| 🇵🇪 Spanish | Native |
+| 🇺🇸 English | B2 |
+| 🇪🇸 Catalan | B1 |
+| 🇹🇷 Turkish | A2 |
+| 🇯🇵 Japanese | A1 |
+| 🇰🇷 Korean | A1 |
+| 🇨🇳 Chinese | A1 |
+| 🇵🇭 Tagalog | A1 |
 
-</div>
+## 📊 GitHub activity
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UchofenAlejos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub contribution and repository statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchofenAlejos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Most used programming languages on GitHub" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UchofenAlejos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</p>
 
-## 📈 GitHub Stats
+## 🤝 Contact & collaboration
 
-<div align="center">
+I'm interested in opportunities to learn and contribute around **cybersecurity, ethical hacking, web and mobile software, APIs, databases, artificial intelligence, and indie game development**.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=UchofenAlejos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanpablo-jos%C3%A9-uchofen-alejos-53765b27b/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Juanpablo on LinkedIn" />
+  </a>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchofenAlejos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
+<p align="center">
+  <a href="./docs/pages/COLLAB.md">Collaboration</a> ·
+  <a href="./docs/README.md">Documentation</a> ·
+  <a href="./.github/CONTRIBUTING.md">Contributing</a> ·
+  <a href="./.github/CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./.github/SECURITY.md">Security</a>
+</p>
 
-  <br><br>
+<p align="center"><em>“Every project is an opportunity to learn something new.”</em></p>
 
-  <img src="https://streak-stats.demolab.com?user=UchofenAlejos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <h3>⭐ Thanks for visiting my profile!</h3>
-  <p><em>"Every project is an opportunity to learn something new."</em></p>
-
-</div>
+<p align="center">
+  <a href="./docs/easter-eggs/easter_egg.md">
+    <img src="./docs/easter-eggs/easter_egg.svg" width="220px" alt="Open a small programming puzzle hidden in the profile documentation" />
+  </a>
+</p>

@@ -1,0 +1,9 @@
+exclude = [
+  "https://github-readme-stats.vercel.app",
+  "https://streak-stats.demolab.com",
+  "https://skillicons.dev",
+  "https://capsule-render.vercel.app",
+]
+include_fragments = true
+max_concurrency = 8
+timeout = 20

@@ -1,0 +1,12 @@
+<svg width="1100" height="240" viewBox="0 0 1100 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Juanpablo's profile core</title>
+  <desc id="desc">Systems engineering student at USAT focused on cybersecurity, software development, and a strong user experience.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="edge"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><style>.k{font:800 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}.h{font:900 30px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.p{font:600 15px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}.s{font:700 11px 'Segoe UI',Arial,sans-serif;letter-spacing:1px;fill:#94a3b8}</style></defs>
+  <rect width="1100" height="240" rx="24" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="985" cy="122" r="76" fill="#22d3ee" opacity=".06"/><circle cx="985" cy="122" r="54" fill="none" stroke="#a78bfa" stroke-opacity=".6"/><circle cx="985" cy="122" r="34" fill="none" stroke="#22d3ee" stroke-opacity=".7"/><circle cx="985" cy="122" r="9" fill="#22d3ee"/>
+  <text x="46" y="50" class="k">PROFILE CORE · SYSTEMS ENGINEERING · USAT</text>
+  <text x="46" y="101" class="h">Secure software, made useful.</text>
+  <text x="46" y="137" class="p">I build across web, desktop, and mobile while exploring cybersecurity,</text>
+  <text x="46" y="161" class="p">artificial intelligence, and interactive game experiences.</text>
+  <text x="46" y="204" class="s">7TH-SEMESTER STUDENT · CHICLAYO, PERU</text>
+</svg>

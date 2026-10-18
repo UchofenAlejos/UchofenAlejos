@@ -1,0 +1,6 @@
+<svg width="1100" height="150" viewBox="0 0 1100 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Collaboration</title><desc id="desc">Connect with Juanpablo about learning and building secure, useful software.</desc>
+  <defs><linearGradient id="bg" x2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#10172b"/></linearGradient><style>.k{font:800 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#86efac}.h{font:900 34px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.s{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}</style></defs>
+  <rect width="1100" height="150" rx="22" fill="url(#bg)" stroke="#14532d"/><path d="M28 122H1072" stroke="#22c55e" stroke-opacity=".65"/>
+  <text x="42" y="46" class="k">PROFILE SYSTEM · OPEN TO CONNECTION</text><text x="42" y="91" class="h">Collaboration</text><text x="42" y="116" class="s">Learning, building, and sharing ideas with others</text>
+</svg>

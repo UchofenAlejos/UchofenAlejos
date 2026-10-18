@@ -1,0 +1,11 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Collaboration console</title>
+  <desc id="desc">Open to learning and collaboration in cybersecurity, applications, APIs, AI, and indie game development.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#0b1024"/></linearGradient><linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22c55e"/></linearGradient><style>.k{font:800 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}.h{font:900 30px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.t{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}.s{font:700 11px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}</style></defs>
+  <rect width="1000" height="250" rx="24" fill="url(#bg)" stroke="#164e63"/>
+  <path d="M30 22h940" stroke="url(#line)" stroke-width="3"/>
+  <text x="46" y="62" class="k">COLLABORATION · READY TO LEARN &amp; BUILD</text>
+  <text x="46" y="112" class="h">Curious about useful, secure software.</text>
+  <text x="46" y="150" class="t">Cybersecurity · web and mobile · APIs · AI · indie games</text>
+  <text x="46" y="202" class="s">Based in Chiclayo, Peru · Systems and Computer Engineering student at USAT</text>
+</svg>
