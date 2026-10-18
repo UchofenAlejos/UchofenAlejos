@@ -20,8 +20,10 @@ This index describes the original SVG assets used by the profile.
 | `docs/assets/svg/pages/projects_system_header.svg` | Projects page header. |
 | `docs/assets/svg/pages/ai_domains_header.svg` | Technical domains page header. |
 | `docs/assets/svg/pages/collab_system_header.svg` | Collaboration page header. |
-| `docs/assets/svg/pages/tech_projects_panel.svg` | README projects navigation card. |
-| `docs/assets/svg/pages/ai_domains.svg` | README technical domains navigation card. |
+| `docs/assets/svg/pages/tech_projects_panel.svg` | Compact projects navigation card asset. |
+| `docs/assets/svg/pages/ai_domains.svg` | Compact technical domains navigation card asset. |
+| `docs/assets/svg/pages/projects_showcase_panel.svg` | Portrait project portal in the README's three-column showcase. |
+| `docs/assets/svg/pages/domains_showcase_panel.svg` | Portrait technical domains visual in the README's three-column showcase. |
 | `docs/assets/svg/pages/collaboration_panel.svg` | README collaboration navigation card. |
 | `docs/assets/svg/pages/engineering_principles_blueprint.svg` | Technical interests and learning map. |
 

@@ -38,14 +38,6 @@
   <img src="./docs/assets/svg/pages/juanpablo_core.svg" width="100%" alt="Profile summary: systems engineering student focused on secure software, web development, and AI" />
 </p>
 
-## 🧭 Profile map
-
-<p align="center">
-  <a href="./docs/pages/PROJECTS.md"><img src="./docs/assets/svg/pages/tech_projects_panel.svg" width="30%" alt="Open the featured projects overview" /></a>
-  <a href="./docs/pages/AI_DOMAIN.md"><img src="./docs/assets/svg/pages/ai_domains.svg" width="30%" alt="Explore cybersecurity, software, and AI domains" /></a>
-  <a href="./docs/pages/COLLAB.md"><img src="./docs/assets/svg/pages/collaboration_panel.svg" width="30%" alt="Open contact and collaboration information" /></a>
-</p>
-
 ## 👋 About me
 
 I'm a **7th-semester Systems and Computer Engineering student** at **Universidad Católica Santo Toribio de Mogrovejo (USAT)**. I enjoy creating software that combines **functionality, security, and a thoughtful user experience**.
@@ -55,20 +47,78 @@ I'm a **7th-semester Systems and Computer Engineering student** at **Universidad
 - **Career goal:** Become a cybersecurity and ethical hacking specialist while developing indie video games as a personal passion.
 - **Outside coding:** I enjoy designing game mechanics, learning languages, and exploring emerging technology.
 
-## 🛠 Technologies
+## 🛠 Technologies, Projects, and Domains
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,vb,flask,tailwind,mysql,postgres,linux,git,postman,androidstudio,visualstudio,dotnet" alt="Programming languages, frameworks, databases, and development tools" />
-</p>
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td width="46%" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="32" alt="Python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="32" alt="Java" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="32" alt="JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="32" alt="HTML" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="32" alt="CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vb" width="32" alt="Visual Basic" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="32" alt="Flask" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="32" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="32" alt="MySQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="32" alt="PostgreSQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="32" alt="Linux" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="32" alt="Git" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="32" alt="Postman" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="32" alt="Android Studio" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="32" alt="Visual Studio" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="32" alt=".NET" /></td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=json&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/.NET%20Framework%204.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework 4.7.2" />
   <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
-  <img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Native Android development" />
-  <img src="https://img.shields.io/badge/Web%20Services-005571?style=flat-square&logo=fastapi&logoColor=white" alt="Web services" />
+  <img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Native" />
+  <img src="https://img.shields.io/badge/Web%20Services-005571?style=flat-square&logo=fastapi&logoColor=white" alt="Web Services" />
 </p>
+
+</td>
+
+<td width="27%" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<a href="./docs/pages/PROJECTS.md">
+  <img src="./docs/assets/svg/pages/projects_showcase_panel.svg" width="220" alt="Open the featured projects overview" />
+</a>
+
+</td>
+
+<td width="27%" valign="top" align="center">
+
+<h3>🧠 Technical Domains</h3>
+<br>
+
+<a href="./docs/pages/AI_DOMAIN.md">
+  <img src="./docs/assets/svg/pages/domains_showcase_panel.svg" width="220" alt="Explore cybersecurity, software development, APIs, AI, and game development interests" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured projects
 

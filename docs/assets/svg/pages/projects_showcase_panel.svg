@@ -1,0 +1,47 @@
+<svg width="500" height="650" viewBox="0 0 500 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Featured projects</title>
+  <desc id="desc">A project portal representing web, desktop, mobile, business, and game-development work.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="32%" stop-color="#67e8f9"/>
+      <stop offset="70%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <style>
+      .title{font:800 27px 'Segoe UI',Arial,sans-serif;fill:#f8fafc;letter-spacing:2px}
+      .label{font:700 13px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}
+      .meta{font:700 11px 'Segoe UI',Arial,sans-serif;fill:#22d3ee;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="500" height="650" fill="url(#bg)"/>
+  <rect x="1" y="1" width="498" height="648" fill="none" stroke="#164e63" stroke-opacity=".5"/>
+  <g opacity=".55">
+    <path d="M48 270H452M90 235H410M90 305H410" stroke="#1e293b" stroke-width="2"/>
+    <path d="M250 118V202M250 338V405" stroke="#164e63" stroke-width="2"/>
+  </g>
+  <g transform="translate(250 270)">
+    <circle r="115" fill="#8b5cf6" opacity=".42" filter="url(#glow)"/>
+    <circle r="92" fill="url(#core)"/>
+    <circle r="37" fill="#f8fafc" opacity=".96"/>
+    <circle r="128" fill="none" stroke="#22d3ee" stroke-opacity=".25" stroke-dasharray="3 12"/>
+    <circle r="145" fill="none" stroke="#8b5cf6" stroke-opacity=".18" stroke-dasharray="2 16"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="250" cy="112" r="4"/>
+    <circle cx="94" cy="270" r="4"/>
+    <circle cx="406" cy="270" r="4"/>
+    <circle cx="250" cy="426" r="4"/>
+  </g>
+  <text x="250" y="494" text-anchor="middle" class="meta">SELECTED WORK</text>
+  <text x="250" y="535" text-anchor="middle" class="title">PROJECTS</text>
+  <text x="250" y="570" text-anchor="middle" class="label">web · desktop · mobile · games</text>
+  <text x="250" y="608" text-anchor="middle" class="meta">OPEN PORTFOLIO →</text>
+</svg>

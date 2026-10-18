@@ -1,0 +1,49 @@
+<svg width="500" height="650" viewBox="0 0 500 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technical domains</title>
+  <desc id="desc">A visual map of cybersecurity, software, APIs and data, artificial intelligence, and game development interests.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="30%" stop-color="#67e8f9"/>
+      <stop offset="68%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <style>
+      .title{font:800 25px 'Segoe UI',Arial,sans-serif;fill:#f8fafc;letter-spacing:1.5px}
+      .label{font:700 13px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}
+      .meta{font:700 11px 'Segoe UI',Arial,sans-serif;fill:#a78bfa;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="500" height="650" fill="url(#bg)"/>
+  <rect x="1" y="1" width="498" height="648" fill="none" stroke="#4c1d95" stroke-opacity=".55"/>
+  <text x="250" y="49" text-anchor="middle" class="meta">AREAS OF INTEREST</text>
+  <g transform="translate(250 330)" fill="none" stroke-linecap="round">
+    <ellipse rx="175" ry="125" stroke="#22d3ee" stroke-opacity=".2" stroke-dasharray="4 14"/>
+    <ellipse rx="125" ry="175" stroke="#a78bfa" stroke-opacity=".2" stroke-dasharray="3 16"/>
+    <path d="M0 0L0-172M0 0L164-55M0 0L102 142M0 0L-102 142M0 0L-164-55" stroke="#38bdf8" stroke-opacity=".48" stroke-width="2"/>
+  </g>
+  <g transform="translate(250 330)">
+    <circle r="82" fill="#8b5cf6" opacity=".32" filter="url(#glow)"/>
+    <circle r="66" fill="url(#core)"/>
+    <circle r="25" fill="#f8fafc"/>
+    <circle cx="0" cy="-172" r="15" fill="#67e8f9"/>
+    <circle cx="164" cy="-55" r="14" fill="#a78bfa"/>
+    <circle cx="102" cy="142" r="14" fill="#67e8f9"/>
+    <circle cx="-102" cy="142" r="14" fill="#a78bfa"/>
+    <circle cx="-164" cy="-55" r="14" fill="#67e8f9"/>
+  </g>
+  <text x="250" y="126" text-anchor="middle" class="label">Cybersecurity</text>
+  <text x="424" y="270" text-anchor="end" class="label">APIs &amp; data</text>
+  <text x="340" y="513" text-anchor="middle" class="label">AI &amp; games</text>
+  <text x="160" y="513" text-anchor="middle" class="label">Software</text>
+  <text x="76" y="270" class="label">Web &amp; mobile</text>
+  <text x="250" y="585" text-anchor="middle" class="title">TECH DOMAINS</text>
+  <text x="250" y="615" text-anchor="middle" class="meta">EXPLORE INTERESTS →</text>
+</svg>
